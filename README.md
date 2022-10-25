@@ -7,7 +7,7 @@
 Here are some ideas to get you started:
 -->
 
-- 🔭 I’m currently working on Global Payment Application which ensure safe and secure transactions.
+- 🔭 I’m currently working as a Software Enginneer at Verifone and developing Global Payment Application which ensure safe and secure transactions.
 - 🌱 I’m currently learning HTML, CSS, JavaScript, NodeJs and React.
 <!--
 - 👯 I’m looking to collaborate on ...
