@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Anupam Prakash</h1>
-<h3 align="center">I’m currently a dedicated M.Tech student at the National Institute of Technology Karnataka (NITK), where I’m passionately pursuing my Master’s degree in Computer Science and Engineering. I worked as a Software Engineer at Verifone. Worked on Global Payment Application(GPA). I am an aspiring coder who enjoys connecting the dots: be it ideas from different disciplines, people from different teams, or applications from different industries. I have strong technical skills and an academic background in engineering, statistics, and machine learning.</h3>
+<h1>Hi 👋, I'm Anupam Prakash</h1>
+<p>I’m currently a dedicated M.Tech student at the National Institute of Technology Karnataka (NITK), where I’m passionately pursuing my Master’s degree in Computer Science and Engineering. I worked as a Software Engineer at Verifone. Worked on Global Payment Application(GPA). I am an aspiring coder who enjoys connecting the dots: be it ideas from different disciplines, people from different teams, or applications from different industries. I have strong technical skills and an academic background in engineering, statistics, and machine learning.</p>
 
 - 👨‍💻 All of my projects are available at [https://anupamprakash.netlify.app/](https://anupamprakash.netlify.app/)
 
